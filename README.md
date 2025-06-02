@@ -24,7 +24,7 @@
 
 - KUBECTL :
 
--  It is the command-line tool used to interact with a Kubernetes cluster. so am collecting the link from official document to install the kubectl .
+-  It is the command-line tool used to interact with a Kubernetes cluster. so am collecting the link from official document to install the kubectl.
 
 -  After am writing a deployment file for an application and the file_name is deployment.yaml .
 
